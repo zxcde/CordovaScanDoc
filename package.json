@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-scandoc",
+  "version": "0.0.1",
+  "description": "Scan document plugin for cordova using opencv",
+  "cordova": {
+    "id": "cordova-plugin-scandoc",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "KienDN",
+  "license": "ISC"
+}
